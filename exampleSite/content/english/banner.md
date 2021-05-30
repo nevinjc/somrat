@@ -1,7 +1,7 @@
 ---
 title: I'm Nevin JC
-first_name: MacGyver
-last_name: SOMRAT
+first_name: Nevin
+last_name: JC
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
 - Web Developer
